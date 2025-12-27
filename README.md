@@ -29,6 +29,8 @@ This was my first time designing a PCB, it was really fun and exciting to do, i 
 * 4x Blank DSA Keycaps
 * 4x M3x16 Bolt
 * 4x M3 Heatset
+* 1x 0.91 OLED Display
+* 1x EC11 Rotary encoder
 
 others: 
 
