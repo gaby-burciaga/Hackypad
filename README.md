@@ -1,6 +1,6 @@
 # Gabriel's CREATION
 
-Finally my creation is ready...
+Finally my creation is ready :)
 
 ## Hackpad
 ![Hackpad](./images/hackpad.png)
